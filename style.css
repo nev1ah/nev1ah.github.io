@@ -16,14 +16,14 @@ div {
 }
 
 h1 {
-	display: flex;
-	justify-content: center;
-	text-align: center;
-	color: white;
-	font-size: 500%;
+  	display: flex;
+  	justify-content: center;
+  	text-align: center;
+  	color: white;
+  	font-size: 500%;
 }
 
-.clear {
-	display: flex;
-	justify-content: center;
+span {
+  	display: flex;
+  	justify-content: center;
 }
