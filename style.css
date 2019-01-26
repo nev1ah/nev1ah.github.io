@@ -6,7 +6,8 @@ body{
 	height: 150px;
 	align-items: center;
 	justify-content: center;
-	background-color: #222222;
+	background-image: url(assets/monoc.jpg);
+	background-size: cover;
 	color: white;
 }
 
